@@ -1,4 +1,4 @@
-# OASIS-INFOBYTE-INTERNSHIP-Task-3
+# OIBSIP-Task-3
 CAR PRICE PREDICTION WITH MACHINE LEARNING
 
 The price of a car depends on a lot of factors like the goodwill of the brand of the car,
